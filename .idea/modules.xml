@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Curso-de-Springboot-Hibernate/curso.iml" filepath="$PROJECT_DIR$/Curso-de-Springboot-Hibernate/curso.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/repositoriocurso.iml" filepath="$PROJECT_DIR$/.idea/repositoriocurso.iml" />
+    </modules>
+  </component>
+</project>
